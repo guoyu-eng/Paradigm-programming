@@ -3,7 +3,7 @@
 Comprised of four sections, including ASP, Generalisation Priority Algorithms in Haskell, Machine Learning in Physical Currents, and Quantum Physics Learning
 ## ASP
 ## Generalisation Priority Algorithms in Haskell
-## Machine Learning in Physical Currents
+## Machine Learning in Physical Currents （Mark ： 86/100 ）
 
 This section contains a Python script that implements a neural network model for regression tasks, specifically designed for analyzing physical current measurements.
 
