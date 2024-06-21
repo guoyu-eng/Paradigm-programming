@@ -1,7 +1,8 @@
 # Paradigm-programming
 
-Comprised of four sections, including ASP, Haskell, Machine Learning in Physical Currents, and Quantum Physics Learning
-
+Comprised of four sections, including ASP, Generalisation Priority Algorithms in Haskell, Machine Learning in Physical Currents, and Quantum Physics Learning
+## ASP
+## Generalisation Priority Algorithms in Haskell
 ## Machine Learning in Physical Currents
 
 This section contains a Python script that implements a neural network model for regression tasks, specifically designed for analyzing physical current measurements.
